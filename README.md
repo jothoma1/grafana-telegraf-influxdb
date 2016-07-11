@@ -2,6 +2,8 @@
 
 Tested with telegraf 1.0 / Influxdb & Grafana 3
 
+Work in progress... to be completed :)
+
 ## Includes
 
 * A simple JSON dashboard to include in Grafana
